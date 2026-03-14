@@ -7,7 +7,7 @@
 const CONFIG = {
   // URL do deployment do Google Apps Script
   // Exemplo: https://script.google.com/macros/d/[ID]/usercontent
-  API_URL: 'https://script.google.com/macros/s/AKfycbz6qOlzq99FmQsaLlZXBu9CexcQ23hlt_CE94rUxQE3ryKStsyZs2qZv7dl8Q9hHePk/exec',
+  API_URL: 'https://script.google.com/macros/s/AKfycbyoBTL1uzdaHm9LLVLIFdlGDdT7_KpP3kh3UkyJyysd39AOmZBKEdKh9JKHduMHVg0G/exec',
   
   // Versão da API
   VERSION: '1.0',
